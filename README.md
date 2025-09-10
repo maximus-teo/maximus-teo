@@ -1,6 +1,9 @@
 ## Hi there 👋
-<img align="left" alt="Maximus Teo's Github Stats" src="https://github-readme-stats-taupe-omega-81.vercel.app/api?username=maximus-teo&show_icons=true&hide_border=true&theme=onedark"/>
-<img align="left" alt="Maximus Teo's Github Stats" src="https://github-readme-stats-taupe-omega-81.vercel.app/api/top-langs/?username=maximus-teo&show_icons=true&hide_border=true&layout=compact&theme=onedark"/>
+<div style="display:flex; flex-direction:row; gap:20px;">
+  <img align="left" alt="Maximus Teo's Github Stats" src="https://github-readme-stats-taupe-omega-81.vercel.app/api?username=maximus-teo&show_icons=true&hide_border=true&theme=onedark"/>
+  <img align="left" alt="Maximus Teo's Github Stats" src="https://github-readme-stats-taupe-omega-81.vercel.app/api/top-langs/?username=maximus-teo&show_icons=true&hide_border=true&layout=compact&theme=onedark"/>
+</div>
+
 
 <!--
 **maximus-teo/maximus-teo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
