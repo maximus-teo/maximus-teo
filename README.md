@@ -1,4 +1,7 @@
 ## Hi there 👋
+<details>
+  <img align="left" alt="Maximus Teo's Github Stats" src="https://github-readme-stats-taupe-omega-81.vercel.app/api?username=maximus-teo&show_icons=true&hide_border=true"/>
+</details>
 
 <!--
 **maximus-teo/maximus-teo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
