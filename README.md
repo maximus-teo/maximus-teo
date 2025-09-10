@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div style="display:flex; flex-direction:row;">
-  <img align="left" width=60% alt="Maximus Teo's Github Stats" src="https://github-readme-stats-taupe-omega-81.vercel.app/api?username=maximus-teo&show_icons=true&hide_border=true&theme=merko"/>
-  <img align="left" alt="Maximus Teo's Github Stats" src="https://github-readme-stats-taupe-omega-81.vercel.app/api/top-langs/?username=maximus-teo&show_icons=true&hide_border=true&layout=compact&theme=merko"/>
+  <img align="left" width=55% alt="Maximus Teo's Github Stats" src="https://github-readme-stats-taupe-omega-81.vercel.app/api?username=maximus-teo&show_icons=true&hide_border=true&theme=dracula"/>
+  <img align="left" alt="Maximus Teo's Github Stats" src="https://github-readme-stats-taupe-omega-81.vercel.app/api/top-langs/?username=maximus-teo&show_icons=true&hide_border=true&layout=compact&theme=dracula"/>
 </div>
 
 
